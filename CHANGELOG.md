@@ -9,9 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 * Added README&#46;md
 * Added images/Tableau_Dashboard.PNG 
-
-### Changed
-* Deleted README.txt 
+* Added .gitignore -> added README.txt 
 
 ## [0.1.1] - 2021-08-12
 
