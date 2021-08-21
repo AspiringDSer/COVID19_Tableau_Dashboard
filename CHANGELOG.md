@@ -8,7 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Added
 * Added README&#46;md
-* Added images/Tableau_Dashboard.PNG 
+* Added images/Tableau_Dashboard.PNG
+* Added images/sql_query_snippet.PNG  
 * Added .gitignore -> added README.txt 
 
 ## [0.1.1] - 2021-08-12

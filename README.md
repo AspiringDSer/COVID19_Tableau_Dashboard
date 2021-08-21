@@ -14,14 +14,14 @@ This README documents the about the project, skills used, and future plan for de
 
 [Tableau Public Dashboard](https://public.tableau.com/views/COVID-19Dashboard_16269278155240/COVIDDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-Note: Due to Tableau Public, you cannot see the animations properly. I suggest to download MP4 recording or view directly in the Tableau Workbook. 
+Note: Due to Tableau Public, you cannot see the animations properly. I suggest to download the [MP4 recording](https://github.com/AspiringDSer/COVID19_Tableau_Dashboard/blob/master/COVID19_Tableau_Dashboard.mp4) (click view raw) or view directly in the Tableau Workbook. 
 <br><br/>
 I wanted to use this portfolio piece to showcase some of my Tableau skills. I downloaded a [COVID-19 Dataset](https://ourworldindata.org/covid-deaths) and cleaned the relevant columns using Python. 
 
-I preprocessed the original dataset then split it into two csv files:
+I preprocessed the original dataset, `owid-covid-data.csv`, then split it into two csv files:
 
-owid-covid-data.csv -> (Preprocess) -> cleaned_owid_covid_data.csv -> (Split)
--> CovidDeaths.csv + CovidVaccinations.csv 
+    Preprocess -> cleaned_owid_covid_data.csv 
+    Split -> CovidDeaths.csv + CovidVaccinations.csv 
 
 **Tableau Skills Used:** 
 * Animations
@@ -32,14 +32,20 @@ owid-covid-data.csv -> (Preprocess) -> cleaned_owid_covid_data.csv -> (Split)
 
 This portfolio piece also demonstrates some of my SQL skills.
 
+![SQL Queries](./images/sql_query_snippet.PNG)
+[Full List of Queries](https://github.com/AspiringDSer/COVID19_Tableau_Dashboard/blob/master/COVID19_data_for_tableau_dashboard.sql)
+
 **Skills Used:** 
 * Creating Tables
 * CTE's
 * Window Functions 
 * Aggregate Functions
 
-
 ## Files:
+
+* images/sql_query_snippet.PNG --- Snippet of SQL Queries
+
+* images/Tableau_Dashboard.PNG --- PNG of Tableau Dashboard
 
 * COVID19_Tableau_Dashboard.twb --- Tableau Workbook 
 
