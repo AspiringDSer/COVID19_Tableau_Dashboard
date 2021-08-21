@@ -6,7 +6,7 @@
 
 Data pulled on July 6th 2021
 
-This README documents the about the project, skills used, and future plan for development.
+This README documents about the project, skills used, and future plans for development.
 
 # About the Project
 
