@@ -33,6 +33,7 @@ I preprocessed the original dataset, `owid-covid-data.csv`, then split it into t
 This portfolio piece also demonstrates some of my SQL skills.
 
 ![SQL Queries](./images/sql_query_snippet.PNG)
+
 [Full List of Queries](https://github.com/AspiringDSer/COVID19_Tableau_Dashboard/blob/master/COVID19_data_for_tableau_dashboard.sql)
 
 **Skills Used:** 
